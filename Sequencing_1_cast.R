@@ -34,4 +34,12 @@ install.packages("irlba")
 install.packages("irlba", type = "source")
 install.packages("RSpectra")
 
+#Velkej bordel, zde pouze knihovny
 
+library(limma)
+library(edgeR)
+library(decoupleR)
+library(OmnipathR)
+library(pheatmap)
+
+#Balíček, bulk sequence
